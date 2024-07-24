@@ -66,6 +66,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.betterem
   - def_list
+  - tables
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tasklist:
@@ -76,3 +77,31 @@ nav:
   - Home: index.md
   - Chapter 6: 
     - chp6/index.md
+    - Establishing Control: chp6/establishingcontrol.md
+    - Life Under The Japanese: chp6/life.md
+    - Local's Response: chp6/localsresponse.md
+  - Chapter 7:
+    - chp7/index.md
+    - External Developments: chp7/externaldev.md
+    - Support Of Locals: chp7/localsupport.md
+    - Riots: chp7/riots.md
+    - Self-Goverment: chp7/selfgovern.md
+  - Chapter 8:
+    - chp8/index.md
+    - Merger: chp8/merger.md
+    - Seperation: chp8/seperation.md
+  - Chapter 9:
+    - chp9/index.md
+    - Security Breach: chp9/securitybreach.md
+    - Overcoming Security Issues: chp9/overcame.md
+  - Chapter 10:
+    - chp10/index.md
+    - Economic Challanges: chp10/economicissues.md
+    - National Identity: chp10/nationalidentity.md
+    - Social Issues: chp10/socialladder.md
+  - Extras:
+    - Rules: extras/rules.md
+    - Contribution: extras/contributing.md
+  - Others:
+    - others/index.md
+    - Credits: others/credits.md
