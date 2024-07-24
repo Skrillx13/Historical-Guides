@@ -10,7 +10,7 @@ A Documentation site to host History notes. Here you can find notes for the Seco
 
 ## Getting Started
 
-Simply navigate using the tabs on the site, or you can use the scearch bar to find a specific page/topic. For a contribution guide, navigate to Extras. Other things such as credits can be found in the Others tab.
+Simply navigate using the tabs on the site, or you can use the scearch bar to find a specific page/topic. Technical details can be found in Extras/Others
 
 ## Roadmap
 - [x] Secondary 2 syllabus being worked on 
@@ -21,4 +21,8 @@ Simply navigate using the tabs on the site, or you can use the scearch bar to fi
 
 !!! bug "Looking for something else? Check out other tabs."
 
+???+note "A word of caution"
+
+    Information in here may not be 100% accurate/reliable, so if you get punished, fail and exam, or get in trouble for using this tool, we are legally not responsible, and cannot help you
+.
 Made with [MKDocs](https://www.mkdocs.org), [Material](https://squidfunk.github.io/mkdocs-material/), and hosted on [GitHub Pages](https://pages.github.com).
