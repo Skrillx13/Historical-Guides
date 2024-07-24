@@ -1,0 +1,78 @@
+# Project Information
+site_name: Historical guides
+site_author: Jonathan Fong
+site_description: >-
+   Guides to help people who are struggling in History.
+   Notes created by Ian Chang, and Site created by Jonathan Fong
+
+# Repository
+repo_name: Historical guides
+repo_url: https://github.com/Skrillx13/Historical-Guides
+
+# Copyright
+copyright: |
+  &copy; 2024 <a href="https://github.com/Skrillx13/Historical-Guides"  target="_blank" rel="noopener">Historical Guides</a> | Made By <a href='https://beacons.ai/skrillx' target='_blank' class='cauthor'>Ian Chang and Jonathan Fong</a> | Hosted on <a href='https://pages.github.com' target='_blank' class='cauthor'>GitHub Pages</a>
+
+# Congiguration
+theme:
+  name: material
+  features: 
+    - toc.follow
+    - navigation.path
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+  - scheme: default
+    toggle:
+      icon: material/brightness-5
+      name: Enable Dark Mode
+    primary: dark blue
+    accent: purple
+  - scheme: slate 
+    toggle:
+      icon: material/brightness-2
+      name: Enable Light Mode    
+    primary: black
+    accent: lime
+  font: 
+    text: "roboto-condensed"
+    code: Roboto Mono
+  icon: 
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+  logo: assets/images/pageicon.png
+  favicon: assets/images/pagefavicon.png
+  language: en
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# Navigation
+nav:
+  - Home: index.md
+  - Chapter 6: 
+    - chp6/index.md
