@@ -23,6 +23,6 @@ Simply navigate using the tabs on the site, or you can use the scearch bar to fi
 
 ???+note "A word of caution"
 
-    Information in here may not be 100% accurate/reliable, so if you get punished, fail and exam, or get in trouble for using this tool, we are legally not responsible, and cannot help you
-.
+    Information in here may not be 100% accurate/reliable, so if you get punished, fail and exam, or get in trouble for using this tool, we are legally not responsible, and cannot help you.
+
 Made with [MKDocs](https://www.mkdocs.org), [Material](https://squidfunk.github.io/mkdocs-material/), and hosted on [GitHub Pages](https://pages.github.com).
