@@ -1,5 +1,3 @@
-# Establishing Control
-
 Basically, the Japanese used a bunch of toruture methods to impose control on the locals. Methods used were typically gruesome, although this is not the case for every method you see:
 
 ## Meting Out Harsh Punishments
@@ -36,3 +34,17 @@ graph LR
 ```
 
 ## Winning Loyalty
+
+The Japanese attempted to win loyalty through using Propaganda. These cam in the form of films, radio programs, and posters.
+
+They portrayed the Japanese in a good light, and attempted to dehumanize the British, and tried to convince the locals that joining Japan was beneficial to them. Supported independence movements such as backing the Indian independence movement by Chandra Bose (Fun Fact: The Nazis also had something similar to this, also by Chandra Bose).
+
+They also attempted to win loyalty by providing benefits to locals, such as providing free education by giving over 20000 textbooks to students in 1944.
+
+Ethnic groups were also treated favourably. Examples include Malays being treated last harshly than other races, salt, sugar, and rice being distributed to the less fortunate during Hari Raya Puasa and Malay and Indian were charged lesser tolls at the crossway. 
+
+## Imposing Japanese Culture
+
+This was pursued as the Japanese assumed that Japanese values and way of life would be imbued to the locals. They did so by changing the curriculum of schools. 
+
+They also inculcated the Japanese spirit in students by imposing nippon seishin or the Japanese spirit, this was done so as to foster a sense of unity and loyalty. This was done by learning the Japanese anthem, bowing to a picture of the emperor and learning folk songs. Exercise was also imposed so as to instil discipline amongst the students.

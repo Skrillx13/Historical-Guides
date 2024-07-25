@@ -104,8 +104,10 @@ nav:
     - National Identity: chp10/nationalidentity.md
     - Social Issues: chp10/socialladder.md
   - Extras:
-    - Rules: extras/rules.md
-    - Contribution: extras/contributing.md
+    - extras/index.md
+    - Islamic Golden Age: extras/islamicgoldenage.md
   - Others:
     - others/index.md
+    - Rules: others/rules.md
+    - Contributing: others/contributing.md
     - Credits: others/credits.md
